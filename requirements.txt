@@ -1,5 +1,4 @@
 jupyter
-pylint
 
 pandas
 matplotlib
